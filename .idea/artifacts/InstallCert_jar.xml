@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="InstallCert:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/InstallCert_jar</output-path>
+    <root id="archive" name="InstallCert.jar">
+      <element id="module-output" name="InstallCert" />
+    </root>
+  </artifact>
+</component>
